@@ -1,0 +1,14 @@
+C:\Users\emin.tasci\Downloads\Ny mapp\lucktxt\lucktxt\obj\Debug\net7.0\lucktxt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emin.tasci\Downloads\Ny mapp\lucktxt\lucktxt\obj\Debug\net7.0\lucktxt.AssemblyInfoInputs.cache
+C:\Users\emin.tasci\Downloads\Ny mapp\lucktxt\lucktxt\obj\Debug\net7.0\lucktxt.AssemblyInfo.cs
+C:\Users\emin.tasci\Downloads\Ny mapp\lucktxt\lucktxt\obj\Debug\net7.0\lucktxt.csproj.CoreCompileInputs.cache
+C:\Users\emin.tasci\Downloads\Ny mapp\lucktxt\lucktxt\bin\Debug\net7.0\lucktxt.exe
+C:\Users\emin.tasci\Downloads\Ny mapp\lucktxt\lucktxt\bin\Debug\net7.0\lucktxt.deps.json
+C:\Users\emin.tasci\Downloads\Ny mapp\lucktxt\lucktxt\bin\Debug\net7.0\lucktxt.runtimeconfig.json
+C:\Users\emin.tasci\Downloads\Ny mapp\lucktxt\lucktxt\bin\Debug\net7.0\lucktxt.dll
+C:\Users\emin.tasci\Downloads\Ny mapp\lucktxt\lucktxt\bin\Debug\net7.0\lucktxt.pdb
+C:\Users\emin.tasci\Downloads\Ny mapp\lucktxt\lucktxt\obj\Debug\net7.0\lucktxt.dll
+C:\Users\emin.tasci\Downloads\Ny mapp\lucktxt\lucktxt\obj\Debug\net7.0\refint\lucktxt.dll
+C:\Users\emin.tasci\Downloads\Ny mapp\lucktxt\lucktxt\obj\Debug\net7.0\lucktxt.pdb
+C:\Users\emin.tasci\Downloads\Ny mapp\lucktxt\lucktxt\obj\Debug\net7.0\lucktxt.genruntimeconfig.cache
+C:\Users\emin.tasci\Downloads\Ny mapp\lucktxt\lucktxt\obj\Debug\net7.0\ref\lucktxt.dll
