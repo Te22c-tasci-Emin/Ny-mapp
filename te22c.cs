@@ -1,7 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 Console.WriteLine("Hello, TE22!");
 
-string name = "Micke" + " bergström" 
+string name = "Emin " + " hej" 
 
 string name = Console.Readline();
 
